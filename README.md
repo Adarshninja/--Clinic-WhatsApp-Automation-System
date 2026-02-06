@@ -55,12 +55,10 @@ All in one simple interface.
 - **Integration:** WhatsApp API  
 
 ```python
-DATABASE_URL = f"sqlite:///{DB_PATH}"
 
 📸 Demo
 
-🎥 Demo Video: [Add your video link here]
-💻 Live App (if deployed): [Add link here]
+🎥 Demo Video: https://drive.google.com/file/d/1tTSNP23IpyxO6Tl67H47OqpjYnul9G4l/view?usp=sharing
 
 ⚙️ Installation & Setup
 1️⃣ Clone the Repository
@@ -130,7 +128,7 @@ AI & Full Stack Developer
 
 GitHub: https://github.com/adarshninja
 
-LinkedIn: [https://www.linkedin.com/in/adarshninja/]
+LinkedIn: https://www.linkedin.com/in/adarshninja/
 
 ⭐ Support
 
